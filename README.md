@@ -37,8 +37,8 @@ A user-friendly, cross-platform mobile itinerary tracking application designed f
 ---
 
 ## 🎯 Current Focus & Research Trajectory
-- **Systems Engineering:** Refining clean modular patterns, strict encapsulation, and mathematical scripting models in Python.
-- **Data Architectures:** Advancing from flat relational SQLite matrices to highly concurrent data engineering streams.
+- **Deep Learning Frameworks:** Constructing custom computational graphs, Tensor manipulations, and multi-layer neural architectures using **PyTorch**.
+- **Predictive Data Pipelines:** Engineering feature extraction models, dimensionality reduction, and mathematical evaluation estimators using **Scikit-Learn**.
 - **Low-Level Theory:** Deepening knowledge in computer graphic display pipelines, virtual camera view translations, and memory-safe physics buffers.
 
 ---
